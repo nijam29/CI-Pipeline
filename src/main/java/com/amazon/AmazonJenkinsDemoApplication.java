@@ -14,7 +14,7 @@ public class AmazonJenkinsDemoApplication implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
-		Logger.info("second log");
+		Logger.info("nijam29");
 		
 	}
 
